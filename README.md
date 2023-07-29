@@ -10,7 +10,7 @@ hello，大家好！我是cutexiaoguigui！
 
 其它：
 
-1. [proxy-bing](https://bing.cutexiaoguigui.eu.org)，但是自建的服务器最近反向代理还是其它什么的出了些问题，无法使用，官方的又需要翻墙……
+1. [proxy-bing](https://bing.cutexiaoguigui.eu.org)，需要登录，方法见[go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai#%E8%AE%BE%E7%BD%AE%E7%94%A8%E6%88%B7)
 2. [chatGPT](chatgpt.cutexiaoguigui.eu.org)，但是要自备密钥，密码：15328。
 
 ## 联系
